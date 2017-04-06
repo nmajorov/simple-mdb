@@ -1,0 +1,4 @@
+batch
+jms-queue add --queue-address=ImageConversionQueue --entries=jms/ImageConversionQueue,java:jboss/exported/jms/queue/ImageConversionQueue
+run-batch
+:reload
