@@ -11,7 +11,7 @@ Start eap7 with full profile:
 Insert queue:
 
 
-    $EAP_HOME/bin/jboss-cli.sh --connect  --file=/home/nmajorov/workspace/missions/Sympany/simple-mdb/jboss.cli 
+    $EAP_HOME/bin/jboss-cli.sh --connect  --file=/home/nmajorov/simple-mdb/jboss.cli 
         
     The batch executed successfully
     {   
